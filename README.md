@@ -14,11 +14,11 @@ pingguard — это лёгкий скрипт мониторинга IP-адр�
 
 Установка:
 
-wget -O /root/check_ip.sh https://raw.githubusercontent.com/cotshara/pingguard/refs/heads/main/check_ip.sh
+`wget -O /root/check_ip.sh https://raw.githubusercontent.com/cotshara/pingguard/refs/heads/main/check_ip.sh`
 
-Делаем его исполняемым chmod +x /root/check_ip.sh
+Делаем его исполняемым `chmod +x /root/check_ip.sh`
 
-И запускаем его /root/check_ip.sh
+И запускаем его `/root/check_ip.sh`
 
 Скрипт автоматически:
 
