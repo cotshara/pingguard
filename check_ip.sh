@@ -3,7 +3,7 @@
 RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; CYAN='\033[0;36m'; NC='\033[0m'
 
 STATUS_DIR="/etc/ip_status"
-CRON_ENTRY="* * * * * /root/check_ip.sh"
+CRON_ENTRY="* * * * * /usr/bin/check_ip.sh"
 HOSTS_FILE="/etc/ip_hosts.conf"
 
 is_interactive() {
