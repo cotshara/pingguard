@@ -35,13 +35,19 @@ chmod +x /usr/bin/check_ip.sh
 8.8.8.8:GoogleDNS:123456789:987654321:abcdef12345:3:100
 
 Пояснение полей:
-Поле	Описание
+
 host	IP-адрес для мониторинга
+
 name	Название хоста
+
 chat_id	Список Telegram chat ID (через запятую)
+
 bot_id	ID Telegram-бота
+
 bot_token	Токен Telegram-бота
+
 max_errors	Кол-во неудачных ping до уведомления (по умолчанию 5)
+
 max_ping_ms	Максимально допустимый ping (в мс). Превышение вызывает предупреждение
 
 ![image](https://github.com/user-attachments/assets/e59d326a-507a-4d92-bedc-7f318eacdb2f)
