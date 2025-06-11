@@ -28,8 +28,9 @@ pingguard — это лёгкий скрипт мониторинга IP-адр�
 
 предложит отредактировать список хостов для мониторинга.
 
-Формат: /etc/ip_hosts.conf #host:name:chat_id1,chat_id2:bot_id:bot_token:max_errors:max_ping_ms
-                                8.8.8.8:GoogleDNS:123456789,987654321:123456789:123456789:3:100
+Формат: /etc/ip_hosts.conf 
+#host:name:chat_id1,chat_id2:bot_id:bot_token:max_errors:max_ping_ms
+
 host — IP-адрес хоста
 
 name — отображаемое имя
