@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/0cbfff6f-18e4-4f70-86d2-30472bd9834d)
+![image](https://github.com/user-attachments/assets/e295ad28-abb6-4bda-9558-eb72909dd265)
+
 
 
 pingguard — это лёгкий скрипт мониторинга IP-адресов с уведомлениями в Telegram. Предназначен для использования на роутерах openwrt и других Linux-устройствах. Не требует дополнительных зависимостей, кроме curl
