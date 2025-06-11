@@ -28,7 +28,8 @@
 ```sh
 wget -O /usr/bin/check_ip.sh https://raw.githubusercontent.com/cotshara/pingguard/refs/heads/main/check_ip.sh
 chmod +x /usr/bin/check_ip.sh
-/usr/bin/check_ip.sh```
+/usr/bin/check_ip.sh
+```
 
 ⚠️ Убедитесь, что используется кодировка UTF-8, иначе русские сообщения будут отображаться некорректно.
 
