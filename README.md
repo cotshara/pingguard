@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/25099bbb-b7f8-41b7-8eba-7e8fc3de2b24)
-
-
-
 # 🛡️ pingguard
 
 **pingguard** — это лёгкий скрипт для мониторинга IP-адресов с Telegram-уведомлениями.  
@@ -49,4 +45,6 @@ max_errors	Кол-во неудачных ping до уведомления (по
 max_ping_ms	Максимально допустимый ping (в мс). Превышение вызывает предупреждение
 
 ![image](https://github.com/user-attachments/assets/e59d326a-507a-4d92-bedc-7f318eacdb2f)
+
+![image](https://github.com/user-attachments/assets/25099bbb-b7f8-41b7-8eba-7e8fc3de2b24)
 
