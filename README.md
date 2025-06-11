@@ -47,3 +47,6 @@ bot_token — токен Telegram-бота
 max_errors — число неудачных попыток перед отправкой уведомления (по умолчанию 5)
 
 max_ping_ms — максимальное значение RTT в мс (если превышено — предупреждение)
+
+![image](https://github.com/user-attachments/assets/e59d326a-507a-4d92-bedc-7f318eacdb2f)
+
